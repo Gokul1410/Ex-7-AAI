@@ -1,6 +1,6 @@
 <H3>NAME: GOKUL C</H3>
 <H3>REGISTER NO:212223240040</H3>
-<H3>EX. NO.7</H3>
+<H3>EX. NO.9</H3>
 <H3>DATE: 02.09.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
